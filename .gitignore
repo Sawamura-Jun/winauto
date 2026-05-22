@@ -1,0 +1,35 @@
+# Python virtual environment
+.venv/
+
+# PyInstaller build artifacts
+build/
+dist/
+release/
+
+# tests
+test/
+tests/
+pytest/
+pytests/
+resources/
+
+# PyInstaller spec files
+*.spec
+
+# Compile data
+__pycache__
+*.pyc
+
+# other
+*.ini
+*.csv
+*.log
+AGENTS.md
+
+# .NET build artifacts
+**/bin/
+**/obj/
+*.sln
+
+# (任意) デバッグシンボル
+*.pdb
